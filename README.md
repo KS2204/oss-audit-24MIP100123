@@ -2,7 +2,7 @@
 
 ## Student Details
 
-* Name: Prathamesh kumar
+* Name: Kushagra Pratap Shukla
 * Registration No.: 24MIP10034
 
 ## Chosen Software
